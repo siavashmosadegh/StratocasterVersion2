@@ -7,21 +7,113 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C111CC1248255B500873B7E /* Shajarian - Morghe Sahar 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CAE248255B400873B7E /* Shajarian - Morghe Sahar 17.png */; };
+		5C111CC2248255B500873B7E /* Shajarian - Morghe Sahar 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CAF248255B400873B7E /* Shajarian - Morghe Sahar 1.png */; };
+		5C111CC3248255B500873B7E /* Shajarian - Morghe Sahar 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB0248255B400873B7E /* Shajarian - Morghe Sahar 5.png */; };
+		5C111CC4248255B500873B7E /* Shajarian - Morghe Sahar 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB1248255B400873B7E /* Shajarian - Morghe Sahar 12.png */; };
+		5C111CC5248255B500873B7E /* Shajarian - Morghe Sahar 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB2248255B400873B7E /* Shajarian - Morghe Sahar 13.png */; };
+		5C111CC6248255B500873B7E /* Shajarian - Morghe Sahar 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB3248255B400873B7E /* Shajarian - Morghe Sahar 14.png */; };
+		5C111CC7248255B500873B7E /* Shajarian - Morghe Sahar 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB4248255B400873B7E /* Shajarian - Morghe Sahar 10.png */; };
+		5C111CC8248255B500873B7E /* Shajarian - Morghe Sahar 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB5248255B400873B7E /* Shajarian - Morghe Sahar 4.png */; };
+		5C111CC9248255B500873B7E /* Shajarian - Morghe Sahar 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB6248255B500873B7E /* Shajarian - Morghe Sahar 3.png */; };
+		5C111CCA248255B500873B7E /* Shajarian - Morghe Sahar 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB7248255B500873B7E /* Shajarian - Morghe Sahar 16.png */; };
+		5C111CCB248255B500873B7E /* Shajarian - Morghe Sahar 19.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB8248255B500873B7E /* Shajarian - Morghe Sahar 19.png */; };
+		5C111CCC248255B500873B7E /* Shajarian - Morghe Sahar 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CB9248255B500873B7E /* Shajarian - Morghe Sahar 2.png */; };
+		5C111CCD248255B500873B7E /* Shajarian - Morghe Sahar 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CBA248255B500873B7E /* Shajarian - Morghe Sahar 11.png */; };
+		5C111CCE248255B500873B7E /* Shajarian - Morghe Sahar 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CBB248255B500873B7E /* Shajarian - Morghe Sahar 9.png */; };
+		5C111CCF248255B500873B7E /* Shajarian - Morghe Sahar 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CBC248255B500873B7E /* Shajarian - Morghe Sahar 6.png */; };
+		5C111CD0248255B500873B7E /* Shajarian - Morghe Sahar 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CBD248255B500873B7E /* Shajarian - Morghe Sahar 7.png */; };
+		5C111CD1248255B500873B7E /* Shajarian - Morghe Sahar 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CBE248255B500873B7E /* Shajarian - Morghe Sahar 18.png */; };
+		5C111CD2248255B500873B7E /* Shajarian - Morghe Sahar 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CBF248255B500873B7E /* Shajarian - Morghe Sahar 15.png */; };
+		5C111CD3248255B500873B7E /* Shajarian - Morghe Sahar 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C111CC0248255B500873B7E /* Shajarian - Morghe Sahar 8.png */; };
+		5C8A975E2480E43000268FFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A975D2480E42F00268FFF /* Assets.xcassets */; };
+		5C8A97632480E9A300268FFF /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8A97622480E9A300268FFF /* TableViewController.swift */; };
+		5C8A97652480F39400268FFF /* Farhad Mehrad - Jome.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97642480F39400268FFF /* Farhad Mehrad - Jome.mp3 */; };
+		5C8A97672480F45C00268FFF /* Shajarian - Morghe Sahar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97662480F45C00268FFF /* Shajarian - Morghe Sahar.mp3 */; };
+		5C8A97802481030200268FFF /* Farhad Mehrad - Jome 24.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97682481030000268FFF /* Farhad Mehrad - Jome 24.png */; };
+		5C8A97812481030200268FFF /* Farhad Mehrad - Jome 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97692481030000268FFF /* Farhad Mehrad - Jome 20.png */; };
+		5C8A97822481030200268FFF /* Farhad Mehrad - Jome 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A976A2481030000268FFF /* Farhad Mehrad - Jome 11.png */; };
+		5C8A97832481030200268FFF /* Farhad Mehrad - Jome 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A976B2481030000268FFF /* Farhad Mehrad - Jome 17.png */; };
+		5C8A97842481030200268FFF /* Farhad Mehrad - Jome 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A976C2481030000268FFF /* Farhad Mehrad - Jome 4.png */; };
+		5C8A97852481030200268FFF /* Farhad Mehrad - Jome 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A976D2481030000268FFF /* Farhad Mehrad - Jome 13.png */; };
+		5C8A97862481030200268FFF /* Farhad Mehrad - Jome 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A976E2481030100268FFF /* Farhad Mehrad - Jome 15.png */; };
+		5C8A97872481030200268FFF /* Farhad Mehrad - Jome 22.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A976F2481030100268FFF /* Farhad Mehrad - Jome 22.png */; };
+		5C8A97882481030200268FFF /* Farhad Mehrad - Jome 21.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97702481030100268FFF /* Farhad Mehrad - Jome 21.png */; };
+		5C8A97892481030200268FFF /* Farhad Mehrad - Jome 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97712481030100268FFF /* Farhad Mehrad - Jome 1.png */; };
+		5C8A978A2481030200268FFF /* Farhad Mehrad - Jome 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97722481030100268FFF /* Farhad Mehrad - Jome 8.png */; };
+		5C8A978B2481030200268FFF /* Farhad Mehrad - Jome 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97732481030100268FFF /* Farhad Mehrad - Jome 10.png */; };
+		5C8A978C2481030200268FFF /* Farhad Mehrad - Jome 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97742481030100268FFF /* Farhad Mehrad - Jome 14.png */; };
+		5C8A978D2481030200268FFF /* Farhad Mehrad - Jome 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97752481030100268FFF /* Farhad Mehrad - Jome 6.png */; };
+		5C8A978E2481030200268FFF /* Farhad Mehrad - Jome 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97762481030100268FFF /* Farhad Mehrad - Jome 7.png */; };
+		5C8A978F2481030200268FFF /* Farhad Mehrad - Jome 23.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97772481030100268FFF /* Farhad Mehrad - Jome 23.png */; };
+		5C8A97902481030200268FFF /* Farhad Mehrad - Jome 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97782481030100268FFF /* Farhad Mehrad - Jome 18.png */; };
+		5C8A97912481030200268FFF /* Farhad Mehrad - Jome 19.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A97792481030200268FFF /* Farhad Mehrad - Jome 19.png */; };
+		5C8A97922481030200268FFF /* Farhad Mehrad - Jome 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A977A2481030200268FFF /* Farhad Mehrad - Jome 5.png */; };
+		5C8A97932481030200268FFF /* Farhad Mehrad - Jome 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A977B2481030200268FFF /* Farhad Mehrad - Jome 3.png */; };
+		5C8A97942481030200268FFF /* Farhad Mehrad - Jome 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A977C2481030200268FFF /* Farhad Mehrad - Jome 9.png */; };
+		5C8A97952481030200268FFF /* Farhad Mehrad - Jome 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A977D2481030200268FFF /* Farhad Mehrad - Jome 12.png */; };
+		5C8A97962481030200268FFF /* Farhad Mehrad - Jome 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A977E2481030200268FFF /* Farhad Mehrad - Jome 2.png */; };
+		5C8A97972481030200268FFF /* Farhad Mehrad - Jome 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8A977F2481030200268FFF /* Farhad Mehrad - Jome 16.png */; };
 		5CCF0A2A24803425006B4079 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CCF0A2924803425006B4079 /* AppDelegate.swift */; };
 		5CCF0A2C24803425006B4079 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CCF0A2B24803425006B4079 /* SceneDelegate.swift */; };
 		5CCF0A2E24803425006B4079 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CCF0A2D24803425006B4079 /* ViewController.swift */; };
 		5CCF0A3124803425006B4079 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CCF0A2F24803425006B4079 /* Main.storyboard */; };
-		5CCF0A3324803426006B4079 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CCF0A3224803426006B4079 /* Assets.xcassets */; };
 		5CCF0A3624803426006B4079 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CCF0A3424803426006B4079 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C111CAE248255B400873B7E /* Shajarian - Morghe Sahar 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 17.png"; sourceTree = "<group>"; };
+		5C111CAF248255B400873B7E /* Shajarian - Morghe Sahar 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 1.png"; sourceTree = "<group>"; };
+		5C111CB0248255B400873B7E /* Shajarian - Morghe Sahar 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 5.png"; sourceTree = "<group>"; };
+		5C111CB1248255B400873B7E /* Shajarian - Morghe Sahar 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 12.png"; sourceTree = "<group>"; };
+		5C111CB2248255B400873B7E /* Shajarian - Morghe Sahar 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 13.png"; sourceTree = "<group>"; };
+		5C111CB3248255B400873B7E /* Shajarian - Morghe Sahar 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 14.png"; sourceTree = "<group>"; };
+		5C111CB4248255B400873B7E /* Shajarian - Morghe Sahar 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 10.png"; sourceTree = "<group>"; };
+		5C111CB5248255B400873B7E /* Shajarian - Morghe Sahar 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 4.png"; sourceTree = "<group>"; };
+		5C111CB6248255B500873B7E /* Shajarian - Morghe Sahar 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 3.png"; sourceTree = "<group>"; };
+		5C111CB7248255B500873B7E /* Shajarian - Morghe Sahar 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 16.png"; sourceTree = "<group>"; };
+		5C111CB8248255B500873B7E /* Shajarian - Morghe Sahar 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 19.png"; sourceTree = "<group>"; };
+		5C111CB9248255B500873B7E /* Shajarian - Morghe Sahar 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 2.png"; sourceTree = "<group>"; };
+		5C111CBA248255B500873B7E /* Shajarian - Morghe Sahar 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 11.png"; sourceTree = "<group>"; };
+		5C111CBB248255B500873B7E /* Shajarian - Morghe Sahar 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 9.png"; sourceTree = "<group>"; };
+		5C111CBC248255B500873B7E /* Shajarian - Morghe Sahar 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 6.png"; sourceTree = "<group>"; };
+		5C111CBD248255B500873B7E /* Shajarian - Morghe Sahar 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 7.png"; sourceTree = "<group>"; };
+		5C111CBE248255B500873B7E /* Shajarian - Morghe Sahar 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 18.png"; sourceTree = "<group>"; };
+		5C111CBF248255B500873B7E /* Shajarian - Morghe Sahar 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 15.png"; sourceTree = "<group>"; };
+		5C111CC0248255B500873B7E /* Shajarian - Morghe Sahar 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shajarian - Morghe Sahar 8.png"; sourceTree = "<group>"; };
+		5C8A975D2480E42F00268FFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5C8A97622480E9A300268FFF /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		5C8A97642480F39400268FFF /* Farhad Mehrad - Jome.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Farhad Mehrad - Jome.mp3"; sourceTree = "<group>"; };
+		5C8A97662480F45C00268FFF /* Shajarian - Morghe Sahar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shajarian - Morghe Sahar.mp3"; sourceTree = "<group>"; };
+		5C8A97682481030000268FFF /* Farhad Mehrad - Jome 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 24.png"; sourceTree = "<group>"; };
+		5C8A97692481030000268FFF /* Farhad Mehrad - Jome 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 20.png"; sourceTree = "<group>"; };
+		5C8A976A2481030000268FFF /* Farhad Mehrad - Jome 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 11.png"; sourceTree = "<group>"; };
+		5C8A976B2481030000268FFF /* Farhad Mehrad - Jome 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 17.png"; sourceTree = "<group>"; };
+		5C8A976C2481030000268FFF /* Farhad Mehrad - Jome 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 4.png"; sourceTree = "<group>"; };
+		5C8A976D2481030000268FFF /* Farhad Mehrad - Jome 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 13.png"; sourceTree = "<group>"; };
+		5C8A976E2481030100268FFF /* Farhad Mehrad - Jome 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 15.png"; sourceTree = "<group>"; };
+		5C8A976F2481030100268FFF /* Farhad Mehrad - Jome 22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 22.png"; sourceTree = "<group>"; };
+		5C8A97702481030100268FFF /* Farhad Mehrad - Jome 21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 21.png"; sourceTree = "<group>"; };
+		5C8A97712481030100268FFF /* Farhad Mehrad - Jome 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 1.png"; sourceTree = "<group>"; };
+		5C8A97722481030100268FFF /* Farhad Mehrad - Jome 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 8.png"; sourceTree = "<group>"; };
+		5C8A97732481030100268FFF /* Farhad Mehrad - Jome 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 10.png"; sourceTree = "<group>"; };
+		5C8A97742481030100268FFF /* Farhad Mehrad - Jome 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 14.png"; sourceTree = "<group>"; };
+		5C8A97752481030100268FFF /* Farhad Mehrad - Jome 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 6.png"; sourceTree = "<group>"; };
+		5C8A97762481030100268FFF /* Farhad Mehrad - Jome 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 7.png"; sourceTree = "<group>"; };
+		5C8A97772481030100268FFF /* Farhad Mehrad - Jome 23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 23.png"; sourceTree = "<group>"; };
+		5C8A97782481030100268FFF /* Farhad Mehrad - Jome 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 18.png"; sourceTree = "<group>"; };
+		5C8A97792481030200268FFF /* Farhad Mehrad - Jome 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 19.png"; sourceTree = "<group>"; };
+		5C8A977A2481030200268FFF /* Farhad Mehrad - Jome 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 5.png"; sourceTree = "<group>"; };
+		5C8A977B2481030200268FFF /* Farhad Mehrad - Jome 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 3.png"; sourceTree = "<group>"; };
+		5C8A977C2481030200268FFF /* Farhad Mehrad - Jome 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 9.png"; sourceTree = "<group>"; };
+		5C8A977D2481030200268FFF /* Farhad Mehrad - Jome 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 12.png"; sourceTree = "<group>"; };
+		5C8A977E2481030200268FFF /* Farhad Mehrad - Jome 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 2.png"; sourceTree = "<group>"; };
+		5C8A977F2481030200268FFF /* Farhad Mehrad - Jome 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Farhad Mehrad - Jome 16.png"; sourceTree = "<group>"; };
 		5CCF0A2624803425006B4079 /* sina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sina.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CCF0A2924803425006B4079 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CCF0A2B24803425006B4079 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5CCF0A2D24803425006B4079 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5CCF0A3024803425006B4079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5CCF0A3224803426006B4079 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5CCF0A3524803426006B4079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5CCF0A3724803426006B4079 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -37,6 +129,84 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5C111CAD2482542200873B7E /* Shajarian - Morghe Sahar */ = {
+			isa = PBXGroup;
+			children = (
+				5C111CAF248255B400873B7E /* Shajarian - Morghe Sahar 1.png */,
+				5C111CB9248255B500873B7E /* Shajarian - Morghe Sahar 2.png */,
+				5C111CB6248255B500873B7E /* Shajarian - Morghe Sahar 3.png */,
+				5C111CB5248255B400873B7E /* Shajarian - Morghe Sahar 4.png */,
+				5C111CB0248255B400873B7E /* Shajarian - Morghe Sahar 5.png */,
+				5C111CBC248255B500873B7E /* Shajarian - Morghe Sahar 6.png */,
+				5C111CBD248255B500873B7E /* Shajarian - Morghe Sahar 7.png */,
+				5C111CC0248255B500873B7E /* Shajarian - Morghe Sahar 8.png */,
+				5C111CBB248255B500873B7E /* Shajarian - Morghe Sahar 9.png */,
+				5C111CB4248255B400873B7E /* Shajarian - Morghe Sahar 10.png */,
+				5C111CBA248255B500873B7E /* Shajarian - Morghe Sahar 11.png */,
+				5C111CB1248255B400873B7E /* Shajarian - Morghe Sahar 12.png */,
+				5C111CB2248255B400873B7E /* Shajarian - Morghe Sahar 13.png */,
+				5C111CB3248255B400873B7E /* Shajarian - Morghe Sahar 14.png */,
+				5C111CBF248255B500873B7E /* Shajarian - Morghe Sahar 15.png */,
+				5C111CB7248255B500873B7E /* Shajarian - Morghe Sahar 16.png */,
+				5C111CAE248255B400873B7E /* Shajarian - Morghe Sahar 17.png */,
+				5C111CBE248255B500873B7E /* Shajarian - Morghe Sahar 18.png */,
+				5C111CB8248255B500873B7E /* Shajarian - Morghe Sahar 19.png */,
+			);
+			path = "Shajarian - Morghe Sahar";
+			sourceTree = "<group>";
+		};
+		5C8A975F2480E83B00268FFF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5C111CAD2482542200873B7E /* Shajarian - Morghe Sahar */,
+				5C8A97982481033500268FFF /* Farhad Mehrad - Jome */,
+				5C8A97992481034D00268FFF /* Songs */,
+				5C8A975D2480E42F00268FFF /* Assets.xcassets */,
+				5CCF0A3424803426006B4079 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5C8A97982481033500268FFF /* Farhad Mehrad - Jome */ = {
+			isa = PBXGroup;
+			children = (
+				5C8A97712481030100268FFF /* Farhad Mehrad - Jome 1.png */,
+				5C8A977E2481030200268FFF /* Farhad Mehrad - Jome 2.png */,
+				5C8A977B2481030200268FFF /* Farhad Mehrad - Jome 3.png */,
+				5C8A976C2481030000268FFF /* Farhad Mehrad - Jome 4.png */,
+				5C8A977A2481030200268FFF /* Farhad Mehrad - Jome 5.png */,
+				5C8A97752481030100268FFF /* Farhad Mehrad - Jome 6.png */,
+				5C8A97762481030100268FFF /* Farhad Mehrad - Jome 7.png */,
+				5C8A97722481030100268FFF /* Farhad Mehrad - Jome 8.png */,
+				5C8A977C2481030200268FFF /* Farhad Mehrad - Jome 9.png */,
+				5C8A97732481030100268FFF /* Farhad Mehrad - Jome 10.png */,
+				5C8A976A2481030000268FFF /* Farhad Mehrad - Jome 11.png */,
+				5C8A977D2481030200268FFF /* Farhad Mehrad - Jome 12.png */,
+				5C8A976D2481030000268FFF /* Farhad Mehrad - Jome 13.png */,
+				5C8A97742481030100268FFF /* Farhad Mehrad - Jome 14.png */,
+				5C8A976E2481030100268FFF /* Farhad Mehrad - Jome 15.png */,
+				5C8A977F2481030200268FFF /* Farhad Mehrad - Jome 16.png */,
+				5C8A976B2481030000268FFF /* Farhad Mehrad - Jome 17.png */,
+				5C8A97782481030100268FFF /* Farhad Mehrad - Jome 18.png */,
+				5C8A97792481030200268FFF /* Farhad Mehrad - Jome 19.png */,
+				5C8A97692481030000268FFF /* Farhad Mehrad - Jome 20.png */,
+				5C8A97702481030100268FFF /* Farhad Mehrad - Jome 21.png */,
+				5C8A976F2481030100268FFF /* Farhad Mehrad - Jome 22.png */,
+				5C8A97772481030100268FFF /* Farhad Mehrad - Jome 23.png */,
+				5C8A97682481030000268FFF /* Farhad Mehrad - Jome 24.png */,
+			);
+			path = "Farhad Mehrad - Jome";
+			sourceTree = "<group>";
+		};
+		5C8A97992481034D00268FFF /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				5C8A97662480F45C00268FFF /* Shajarian - Morghe Sahar.mp3 */,
+				5C8A97642480F39400268FFF /* Farhad Mehrad - Jome.mp3 */,
+			);
+			path = Songs;
+			sourceTree = "<group>";
+		};
 		5CCF0A1D24803425006B4079 = {
 			isa = PBXGroup;
 			children = (
@@ -60,8 +230,8 @@
 				5CCF0A2B24803425006B4079 /* SceneDelegate.swift */,
 				5CCF0A2D24803425006B4079 /* ViewController.swift */,
 				5CCF0A2F24803425006B4079 /* Main.storyboard */,
-				5CCF0A3224803426006B4079 /* Assets.xcassets */,
-				5CCF0A3424803426006B4079 /* LaunchScreen.storyboard */,
+				5C8A97622480E9A300268FFF /* TableViewController.swift */,
+				5C8A975F2480E83B00268FFF /* Supporting Files */,
 				5CCF0A3724803426006B4079 /* Info.plist */,
 			);
 			path = sina;
@@ -125,9 +295,54 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C111CD1248255B500873B7E /* Shajarian - Morghe Sahar 18.png in Resources */,
+				5C8A97882481030200268FFF /* Farhad Mehrad - Jome 21.png in Resources */,
+				5C8A978B2481030200268FFF /* Farhad Mehrad - Jome 10.png in Resources */,
+				5C8A978D2481030200268FFF /* Farhad Mehrad - Jome 6.png in Resources */,
+				5C8A97672480F45C00268FFF /* Shajarian - Morghe Sahar.mp3 in Resources */,
+				5C8A97952481030200268FFF /* Farhad Mehrad - Jome 12.png in Resources */,
+				5C111CD0248255B500873B7E /* Shajarian - Morghe Sahar 7.png in Resources */,
 				5CCF0A3624803426006B4079 /* LaunchScreen.storyboard in Resources */,
-				5CCF0A3324803426006B4079 /* Assets.xcassets in Resources */,
+				5C111CCF248255B500873B7E /* Shajarian - Morghe Sahar 6.png in Resources */,
+				5C8A978C2481030200268FFF /* Farhad Mehrad - Jome 14.png in Resources */,
+				5C8A97972481030200268FFF /* Farhad Mehrad - Jome 16.png in Resources */,
+				5C8A97902481030200268FFF /* Farhad Mehrad - Jome 18.png in Resources */,
+				5C111CC1248255B500873B7E /* Shajarian - Morghe Sahar 17.png in Resources */,
+				5C111CCC248255B500873B7E /* Shajarian - Morghe Sahar 2.png in Resources */,
+				5C111CC2248255B500873B7E /* Shajarian - Morghe Sahar 1.png in Resources */,
+				5C111CCB248255B500873B7E /* Shajarian - Morghe Sahar 19.png in Resources */,
+				5C8A97942481030200268FFF /* Farhad Mehrad - Jome 9.png in Resources */,
+				5C111CC8248255B500873B7E /* Shajarian - Morghe Sahar 4.png in Resources */,
+				5C8A97932481030200268FFF /* Farhad Mehrad - Jome 3.png in Resources */,
+				5C8A97842481030200268FFF /* Farhad Mehrad - Jome 4.png in Resources */,
+				5C8A978E2481030200268FFF /* Farhad Mehrad - Jome 7.png in Resources */,
+				5C8A978F2481030200268FFF /* Farhad Mehrad - Jome 23.png in Resources */,
+				5C8A978A2481030200268FFF /* Farhad Mehrad - Jome 8.png in Resources */,
+				5C111CCA248255B500873B7E /* Shajarian - Morghe Sahar 16.png in Resources */,
+				5C8A97652480F39400268FFF /* Farhad Mehrad - Jome.mp3 in Resources */,
+				5C111CC9248255B500873B7E /* Shajarian - Morghe Sahar 3.png in Resources */,
+				5C111CD2248255B500873B7E /* Shajarian - Morghe Sahar 15.png in Resources */,
+				5C111CC7248255B500873B7E /* Shajarian - Morghe Sahar 10.png in Resources */,
+				5C111CC6248255B500873B7E /* Shajarian - Morghe Sahar 14.png in Resources */,
+				5C8A97812481030200268FFF /* Farhad Mehrad - Jome 20.png in Resources */,
+				5C8A97912481030200268FFF /* Farhad Mehrad - Jome 19.png in Resources */,
+				5C8A97832481030200268FFF /* Farhad Mehrad - Jome 17.png in Resources */,
+				5C111CC3248255B500873B7E /* Shajarian - Morghe Sahar 5.png in Resources */,
+				5C8A97962481030200268FFF /* Farhad Mehrad - Jome 2.png in Resources */,
+				5C111CC5248255B500873B7E /* Shajarian - Morghe Sahar 13.png in Resources */,
+				5C8A975E2480E43000268FFF /* Assets.xcassets in Resources */,
+				5C8A97862481030200268FFF /* Farhad Mehrad - Jome 15.png in Resources */,
+				5C8A97922481030200268FFF /* Farhad Mehrad - Jome 5.png in Resources */,
+				5C111CC4248255B500873B7E /* Shajarian - Morghe Sahar 12.png in Resources */,
+				5C111CCE248255B500873B7E /* Shajarian - Morghe Sahar 9.png in Resources */,
+				5C111CD3248255B500873B7E /* Shajarian - Morghe Sahar 8.png in Resources */,
+				5C8A97852481030200268FFF /* Farhad Mehrad - Jome 13.png in Resources */,
 				5CCF0A3124803425006B4079 /* Main.storyboard in Resources */,
+				5C8A97802481030200268FFF /* Farhad Mehrad - Jome 24.png in Resources */,
+				5C8A97892481030200268FFF /* Farhad Mehrad - Jome 1.png in Resources */,
+				5C111CCD248255B500873B7E /* Shajarian - Morghe Sahar 11.png in Resources */,
+				5C8A97872481030200268FFF /* Farhad Mehrad - Jome 22.png in Resources */,
+				5C8A97822481030200268FFF /* Farhad Mehrad - Jome 11.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +356,7 @@
 				5CCF0A2E24803425006B4079 /* ViewController.swift in Sources */,
 				5CCF0A2A24803425006B4079 /* AppDelegate.swift in Sources */,
 				5CCF0A2C24803425006B4079 /* SceneDelegate.swift in Sources */,
+				5C8A97632480E9A300268FFF /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
